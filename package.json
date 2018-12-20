@@ -5,7 +5,7 @@
   "private": false,
   "author": "Zichao Xiong <onycat@live.cn>",
   "license": "MIT",
-  "main": "dist/vue-easy-lightbox.common.js ",
+  "main": "dist/vue-easy-lightbox.common.js",
   "scripts": {
     "serve": "vue-cli-service serve",
     "lint": "vue-cli-service lint",
